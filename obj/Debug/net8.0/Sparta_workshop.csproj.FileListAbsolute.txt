@@ -1,0 +1,14 @@
+/home/joel/Documents/Sparta_workshop/bin/Debug/net8.0/Sparta_workshop
+/home/joel/Documents/Sparta_workshop/bin/Debug/net8.0/Sparta_workshop.deps.json
+/home/joel/Documents/Sparta_workshop/bin/Debug/net8.0/Sparta_workshop.runtimeconfig.json
+/home/joel/Documents/Sparta_workshop/bin/Debug/net8.0/Sparta_workshop.dll
+/home/joel/Documents/Sparta_workshop/bin/Debug/net8.0/Sparta_workshop.pdb
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.GeneratedMSBuildEditorConfig.editorconfig
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.AssemblyInfoInputs.cache
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.AssemblyInfo.cs
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.csproj.CoreCompileInputs.cache
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.dll
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/refint/Sparta_workshop.dll
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.pdb
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/Sparta_workshop.genruntimeconfig.cache
+/home/joel/Documents/Sparta_workshop/obj/Debug/net8.0/ref/Sparta_workshop.dll
