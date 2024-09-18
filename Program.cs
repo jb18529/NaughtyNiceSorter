@@ -15,13 +15,13 @@ var niceSpartans = new List<NiceSpartan>();
 
 var naughtySpartans = new List<NaughtySpartan>();
 
-var presents = new List<string>
-{
-    "Fortitude",
-    "Charity",
-    "Hope",
-    "Faith"
-};
+// var presents = new List<string>
+// {
+//     "Fortitude",
+//     "Charity",
+//     "Hope",
+//     "Faith"
+// };
 
 foreach (var line in santaList) 
 {
